@@ -140,7 +140,7 @@ font-size: 20px;
 .date-place-time{
     width: 1320px;
 height: 482px;
-border: 2px red solid;
+/* border: 2px red solid; */
 margin: 0 auto;
 margin-top: 120px;
 background-color: border-radius: 16px;
@@ -148,9 +148,7 @@ background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 1
 }
 
 .date{
-    margin:100px 386px 214px 385px;
     text-align: center;
-
 }
 .p-d-t{
     font-family: Inter;
@@ -166,6 +164,7 @@ font-size: 32px;
 font-weight: 600;
 line-height: 56px;
 color: black;
+margin-top: 110px;
 }
 .jbutton{
 color: rgb(255, 255, 255);
@@ -177,4 +176,84 @@ padding: 10px 10px 10px;
 margin-top: 64px;
 background-color: red;
 border-radius: 8px;
+}
+
+/* new-best-offer desing start here */
+.new-best-offer{
+    width: 1320px;
+height: 463px;
+/* border: 2px red solid; */
+margin: 0 auto;
+margin-top: 120px;
+display: flex;
+}
+/* new-offer */
+.new-offer{
+    width: 436px;
+    /* border: 2px red solid; */
+    margin-top: 104px;
+    margin-bottom: 104px;
+}
+.new-best-offer-text{
+    width: 207px;
+height: 29px;
+color: rgb(255, 0, 0);
+font-family: Inter;
+margin-bottom: 16px;
+}
+.comming-soon{
+
+    width: 328px;
+    height: 60px
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 48px;
+
+}
+.dolor-sit{
+    width: 393px;
+height: 128px;
+color: rgba(7, 2, 17, 0.6);
+font-family: Inter;
+font-size: 20px;
+margin-top: 22px;
+}
+.img-continer{
+    width: 463px;
+height: 463px;
+/* border: 2px red solid; */
+}
+.two-image{
+    margin: 49px 49px 49px 49px;
+}
+
+
+
+
+
+
+
+.two-thousend{
+    color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 48px;
+margin-top: 112px;
+margin-right: 149px;
+margin-left: 118px;
+}
+
+.dolor-si{
+    margin-top:16px ;
+    margin-left:118px ;
+    margin-right:140px ;
+    width: 393px;
+    height: 128px;
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+}
+.happy-new{
+    width: 140px;
+height: 140px;
+margin-left: 118px;
 }
