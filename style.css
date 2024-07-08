@@ -134,3 +134,47 @@ margin-top: 90px;
 font-family: Inter;
 font-size: 20px;
 }
+
+
+/* date-place-time design */
+.date-place-time{
+    width: 1320px;
+height: 482px;
+border: 2px red solid;
+margin: 0 auto;
+margin-top: 120px;
+background-color: border-radius: 16px;
+background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 100%);;
+}
+
+.date{
+    margin:100px 386px 214px 385px;
+    text-align: center;
+
+}
+.p-d-t{
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    letter-spacing: 0%;
+  color:rgb(255, 0, 0);
+}
+.pag{
+    font-family: Inter;
+font-size: 32px;
+font-weight: 600;
+line-height: 56px;
+color: black;
+}
+.jbutton{
+color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+padding: 10px 10px 10px;
+margin-top: 64px;
+background-color: red;
+border-radius: 8px;
+}
